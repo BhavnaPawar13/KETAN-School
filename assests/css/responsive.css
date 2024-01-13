@@ -1,0 +1,479 @@
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .banner {
+    height: 700px !important;
+  }
+
+  .image {
+    margin-top: 15% !important;
+    margin-left: 10px !important;
+  }
+
+  .card .price {
+    top: 36% !important;
+  }
+
+  .about-banner .page-banner,
+  .teacher-banner .page-banner,
+  .teacher1-banner .page-banner,
+  .gallery-banner .page-banner,
+  .event-banner .page-banner,
+  .event1-banner .page-banner,
+  .class-banner .page-banner {
+    margin-top: 80px;
+    margin-left: 250px !important;
+    font-weight: 600;
+
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+
+  .pt-100 {
+    padding-top: 50px !important;
+  }
+
+  .mt-10 {
+    margin-top: 60px !important;
+  }
+
+  .main-banner-item {
+    height: auto;
+    padding-top: 10px !important;
+    padding-bottom: 40px;
+    background-image: unset;
+    background-color: #e7ddf4;
+  }
+
+  .main-banner-item .container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  .banner-content {
+    text-align: center;
+    margin-top: 35px !important;
+  }
+
+  .banner-content h1 {
+    font-size: 45px !important;
+  }
+
+  .image {
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .who .boy-img {
+    margin-top: 60%;
+  }
+
+  .core-value h3 {
+    font-size: 40px !important;
+  }
+
+  .about-banner .page-banner,
+  .gallery-banner .page-banner,
+  .teacher-banner .page-banner,
+  .teacher1-banner .page-banner,
+  .event-banner .page-banner,
+  .event1-banner .page-banner,
+  .class-banner .page-banner,
+  .class1-banner .page-banner {
+    margin-top: 45% !important;
+    margin-left: 180px !important;
+    font-weight: 600;
+  }
+
+
+  .about-banner h2,
+  .gallery-banner h2,
+  .class-banner h2,
+  .class1-banner h2,
+  .teacher-banner h2,
+  .teacher1-banner h2 {
+    font-size: 50px;
+  }
+
+  .teacher-information {
+    padding: 25px 20px;
+    margin-top: 30px;
+  }
+
+  .card .price {
+    top: 42% !important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+
+  .pb-100 {
+    padding-bottom: 40px;
+  }
+
+  .pt-100 {
+    padding-top: 50px !important;
+  }
+
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+
+  .main-banner-item {
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-image: unset;
+    background-color: #e7ddf4;
+  }
+
+  .banner-content {
+    margin-top: 20px !important;
+  }
+
+  .main-banner-item .container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  .banner-content {
+    text-align: center;
+    margin: auto;
+  }
+
+  .banner-content h1,
+  .who_we h3 {
+    font-size: 40px !important;
+  }
+
+  .who .boy-img {
+    margin-top: 170px;
+    margin-bottom: 30px;
+  }
+
+  .who-we {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+
+  .popular h3 {
+    font-size: 30px !important;
+  }
+
+  .card .price {
+    top: 57% !important;
+  }
+
+  .core-value h3 {
+    font-size: 10px !important;
+    font-weight: 300px;
+  }
+
+  .about-banner .page-banner,
+  .gallery-banner .page-banner,
+  .teacher-banner .page-banner,
+  .event-banner .page-banner,
+  .class-banner .page-banner,
+  .class1-banner .page-banner,
+  .blog-banner .page-banner {
+    margin-top: 30px !important;
+    margin-left: 150px !important;
+    font-weight: 600;
+  }
+
+  .teacher1-banner .page-banner,
+  .event1-banner .page-banner {
+    margin-top: 30px !important;
+    margin-left: 130px !important;
+    font-weight: 600;
+  }
+
+  .about-banner,
+  .gallery-banner,
+  .class-banner,
+  .class1-banner,
+  .teacher-banner,
+  .teacher1-banner,
+  .event-banner,
+  .event1-banner,
+  .blog-banner {
+    height: 220px !important;
+  }
+
+  .about-banner h2,
+  .gallery-banner h2,
+  .class-banner h2,
+  .class1-banner h2,
+  .teacher-banner h2,
+  .teacher1-banner h2,
+  .event-banner h2,
+  .event1-banner h2,
+  .blog-banner h2 {
+    font-size: 40px !important;
+  }
+
+  .who h3,
+  .teacher-area h3 a,
+  .quotes h3,
+  .courses h3,
+  .pricing h3,
+  .newslatter h2 {
+    font-size: 25px !important;
+  }
+
+  .teacher-information {
+    padding: 25px 20px;
+    margin-top: 30px;
+  }
+
+  .event-area .event-item {
+    text-align: center;
+  }
+
+  .event-area .event-item h4 {
+    font-size: 50px !important;
+  }
+
+}
+
+@media screen and (max-width:575px) {
+  .pb-100 {
+    padding-bottom: 30px !important;
+  }
+
+  .pb-70 {
+    padding-bottom: 20px !important;
+  }
+
+  .pt-100 {
+    padding-top: 50px !important;
+  }
+
+  .mt-10 {
+    margin-top: 60px !important;
+  }
+
+  .banner-content h1,
+  .who_we h3,
+  .core-value h3,
+  .teacher h3,
+  .event h3,
+  .news h3,
+  .quotes h3,
+  .courses h3 {
+    font-size: 25px !important;
+  }
+
+  .teacher {
+    margin-top: 20px !important;
+  }
+
+  .card .price {
+    top: 58.5% !important;
+  }
+
+  .event .event-date {
+    font-size: 40px !important;
+  }
+
+  .about-banner .page-banner,
+  .gallery-banner .page-banner,
+  .teacher-banner .page-banner,
+  .teacher1-banner .page-banner,
+  .event-banner .page-banner,
+  .event1-banner .page-banner,
+  .class-banner .page-banner,
+  .class1-banner .page-banner,
+  .blog-banner .page-banner {
+    margin-top: 30px !important;
+    margin-left: 150px !important;
+    font-weight: 600;
+  }
+
+  .about-banner,
+  .gallery-banner,
+  .class-banner,
+  .class1-banner,
+  .teacher-banner,
+  .teacher1-banner,
+  .event-banner,
+  .event1-banner,
+  .blog-banner {
+    height: 220px !important;
+  }
+
+  .about-banner h2,
+  .gallery-banner h2,
+  .class-banner h2,
+  .class1-banner h2,
+  .teacher-banner h2,
+  .teacher1-banner h2,
+  .event-banner h2,
+  .event1-banner h2,
+  .blog-banner h2 {
+    font-size: 35px !important;
+  }
+
+  .newslatter {
+    padding-bottom: 10% !important;
+  }
+}
+
+@media screen and (max-width:340px) {
+  .pb-100 {
+    padding-bottom: 30px !important;
+  }
+
+  .pb-70 {
+    padding-bottom: 20px !important;
+  }
+
+  .pt-100 {
+    padding-top: 40px !important;
+  }
+
+  .mt-10 {
+    margin-top: 50px !important;
+  }
+
+  .banner-content h1,
+  .who_we h3,
+  .core-value h3,
+  .core-value h3,
+  .teacher h3,
+  .event h3,
+  .news h3 {
+    font-size: 30px !important;
+  }
+
+  .main-banner-item {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+
+  .main-banner-item {
+    height: auto;
+    /* padding-top: 20px !important; */
+    padding-bottom: 0px !important;
+    background-image: unset;
+    background-color: #e7ddf4;
+  }
+
+  .banner-content {
+    margin-top: 10px !important;
+  }
+
+  .btn {
+    padding: 10px 10px !important;
+    font-size: 10px;
+  }
+
+  .image {
+    margin-top: 10px !important;
+    text-align: center;
+  }
+
+  .who .boy-img {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+
+  .card .price {
+    top: 36% !important;
+  }
+
+  .value-content p {
+    padding-right: 15px !important;
+    font-size: 15px !important;
+    font-weight: 400px;
+    margin-bottom: 0;
+  }
+
+  .teacher {
+    margin-top: 10px !important;
+  }
+
+  .content h3,
+  .who_we h3,
+  .teacher-area h3 a,
+  .courses h3,
+  .pricing h3,
+  .feedback-info h3 {
+    font-size: 25px !important;
+  }
+
+  .quotes h3 {
+    font-size: 22px !important;
+  }
+
+  .content h6 {
+    margin-top: 0px !important;
+  }
+
+  .event .event-date {
+    font-size: 40px !important;
+  }
+
+  .about-banner,
+  .gallery-banner,
+  .class-banner,
+  .class1-banner,
+  .teacher-banner,
+  .teacher1-banner,
+  .event-banner,
+  .event1-banner,
+  .blog-banner {
+    height: 250px !important;
+  }
+
+  .about-banner .page-banner,
+  .teacher-banner .page-banner,
+  .gallery-banner .page-banner,
+  .event-banner .page-banner,
+  .class-banner .page-banner,
+  .blog-banner .page-banner {
+    margin-top: 30px !important;
+    margin-left: 70px !important;
+    font-weight: 600;
+  }
+
+  .teacher1-banner .page-banner,
+  .event1-banner .page-banner,
+  .class1-banner .page-banner {
+    margin-top: 30px !important;
+    margin-left: 30px !important;
+    font-weight: 600;
+  }
+
+
+  .about-banner h2,
+  .gallery-banner h2,
+  .class-banner h2,
+  .class1-banner h2,
+  .teacher-banner h2,
+  .teacher1-banner h2,
+  .event-banner h2,
+  .event1-banner h2,
+  .blog-banner h2,
+  .testimonial-area h2 {
+    font-size: 35px !important;
+  }
+
+  .newslatter {
+    padding-bottom: 15% !important;
+  }
+
+  /* .event-area .event-item{
+  text-align: center;
+}
+.event-area .event-item h4{
+  font-size: 50px !important;
+} */
+}
